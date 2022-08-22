@@ -5,6 +5,8 @@ require_once('./includes/page_title.php');
 require_once('./includes/db_connection.php');
 ?>
 
+<!-- hi -->
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
