@@ -4,6 +4,7 @@ $pageName = 'Welcome to Mizarkas';
 require_once('./includes/page_title.php');
 require_once('./includes/db_connection.php');
 ?>
+<h1>hello</h1>
 
 <!-- hi -->
 
